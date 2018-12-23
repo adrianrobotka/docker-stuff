@@ -1,4 +1,4 @@
 # Docker stuff
-Bunch of Dockerfiles in separate branches
+Bunch of Dockerfiles
 
-This repo contains separate branches to build different docker images.
+This repo contains separate Dockerfiles to build different docker images.
